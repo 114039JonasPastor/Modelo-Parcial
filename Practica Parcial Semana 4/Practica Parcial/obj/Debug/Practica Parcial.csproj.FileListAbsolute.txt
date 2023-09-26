@@ -1,0 +1,74 @@
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.csproj.AssemblyReference.cache
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica_Parcial.FrmRegistrarOrdenRetiro.resources
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica_Parcial.Properties.Resources.resources
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.csproj.GenerateResource.cache
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.csproj.CoreCompileInputs.cache
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Practica Parcial.exe.config
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Practica Parcial.exe
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Practica Parcial.pdb
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.exe
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.pdb
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\EnvDTE.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\stdole.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica_Parcial.Diseño.FrmReporteStock.resources
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica Parcial.csproj.CopyComplete
+C:\Users\Jonás\Documents\GitHub\Practica Parcial\Practica Parcial\Practica Parcial\obj\Debug\Practica_Parcial.Diseño.FrmPrincipal.resources

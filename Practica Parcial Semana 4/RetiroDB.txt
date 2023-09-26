@@ -1,0 +1,59 @@
+create table Material
+(
+codigo int identity(1,1),
+nombre varchar(100),
+stock int
+constraint PK_codigo_material primary key(codigo)
+)
+
+create table OrdenRetiro
+(
+nroOrden int identity(1,1),
+fecha date,
+responsable varchar(100)
+constraint PK_nro_orden primary key(nroOrden)
+)
+
+create table DetalleOrden
+(
+id_detalle int identity(1,1),
+id_material int,
+cantidad int,
+id_orden int
+constraint PK_Detalle primary key(id_detalle),
+constraint FK_Material foreign key(id_material) references Material(codigo),
+constraint FK_Orden foreign key(id_orden) references OrdenRetiro(nroOrden)
+)
+
+create proc SP_INSERTAR_ORDEN
+@fecha datetime,
+@responsable varchar(100),
+@nuevo_nro_orden int output
+as
+insert into OrdenRetiro(fecha, responsable) values(@fecha, @responsable);
+		set @nuevo_nro_orden = SCOPE_IDENTITY()
+
+
+create proc SP_INSERTAR_DETALLES
+@id_orden int,
+@id_material int,
+@cantidad int
+as
+insert into DetalleOrden(id_orden, id_material,cantidad) 
+	values(@id_orden, @id_material, @cantidad)
+update material set stock = stock - @cantidad
+
+select * from Material
+
+insert into Material(nombre, stock) values('Acero inoxidable', 100)
+insert into Material(nombre, stock) values('Acero al carbono', 300)
+
+create proc SP_CONSULTAR_MATERIALES
+as
+select * from Material
+where stock >= 1
+order by nombre
+
+create proc SP_REPORTE_STOCK
+as
+select nombre 'Material', stock 'Stock', codigo 'Codigo' from Material
